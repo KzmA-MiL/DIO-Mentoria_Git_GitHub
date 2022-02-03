@@ -80,3 +80,5 @@ Isso significa que, ao executar o comando, a branch atual será renomeada para m
 - git push origin branch --delete
 
 - git push -u origin main
+
+teste
